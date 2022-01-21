@@ -1,4 +1,4 @@
 
 # Demo
 
-- Learning GitHu
+- Learning GitHub
